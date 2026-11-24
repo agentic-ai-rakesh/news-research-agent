@@ -1,0 +1,7 @@
+# Only for the learning notebooks in notebooks/ (not needed by the app).
+-r requirements.txt
+jupyter>=1.1,<2
+pandas>=2.2,<3
+sentence-transformers>=3.0,<6
+langchain-community>=0.4,<1
+langchain-classic>=1.0,<2
